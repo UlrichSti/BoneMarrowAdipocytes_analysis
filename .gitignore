@@ -1,0 +1,21 @@
+# Large data
+data/
+
+# Generated results
+results/
+
+# R objects
+*.rds
+
+# Sequencing files
+*.tar
+*.gz
+*.h5
+*.cloupe
+
+# RStudio
+.Rhistory
+.RData
+.Ruserdata
+
+.Rproj.user/
